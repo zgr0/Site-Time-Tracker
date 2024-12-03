@@ -1,4 +1,3 @@
-# Site-Time-Tracker
 # **Site Time Tracker**
 
 Site Time Tracker is a Chrome extension that monitors and tracks how much time you spend on each website. It provides an overview of your browsing habits directly from the extension popup.
